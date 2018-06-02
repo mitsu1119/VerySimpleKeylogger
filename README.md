@@ -1,2 +1,3 @@
 # VerySimpleKeylogger
+キーのログをファイルに書き出すやつ。Windowは表示されない
 タスクマネージャからかコマンドでkillしてね
